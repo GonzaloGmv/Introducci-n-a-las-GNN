@@ -1,4 +1,4 @@
-# Introducci-n-a-las-GNN
+# Introducción-a-las-GNN
 
 El link a este repositorio es: [github](https://github.com/GonzaloGmv/Introduccion-a-las-GNN)
 
